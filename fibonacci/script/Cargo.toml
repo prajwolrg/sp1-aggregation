@@ -1,0 +1,11 @@
+[package]
+version = "0.1.0"
+name = "fibonacci-script"
+edition = "2021"
+
+[dependencies]
+hex = "0.4.3"
+sp1-sdk = "4.1.2"
+
+[build-dependencies]
+sp1-build = "4.1.2"
