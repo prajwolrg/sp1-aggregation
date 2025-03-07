@@ -4,4 +4,4 @@ name = "fibonacci-program"
 edition = "2021"
 
 [dependencies]
-sp1-zkvm = "4.1.2"
+sp1-zkvm = "4.1.3"
